@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a bbok review application<br>👯 I’m looking to collaborate on an AI powered project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning django<br>💬 Ask me about anything<br>⚡ Fun fact
+🔭 I’m currently working on a book review application<br>👯 I’m looking to collaborate on an AI powered project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning django<br>💬 Ask me about anything<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
